@@ -53,8 +53,8 @@ weight = 5
 
 # Biography
 
-Amazon Web Service の Big Data Consultant. ネットベンチャーで Web デザイナーとしてキャリアをスタート, Web アプリ開発からインフラ運用まで幅広い経験を積んだ後, フリーランスエンジニア, 株式会社ドワンゴでDBA兼開発チームマネージャーを経て, 日本オラクル株式会社でDBコンサルタントとしてミッションクリティカル・システムのデータベース技術支援に従事, 2017年4月より現職.
+Amazon Web Service Japan の Big Data Consultant. ネットベンチャーで Web デザイナーとしてキャリアをスタート, Web アプリ開発からインフラ運用まで幅広い経験を積んだ後, フリーランスエンジニア, ドワンゴで DBA 兼開発チームマネージャーを経て, Oracle Japan で DB コンサルタントとしてミッションクリティカル・システムのデータベース技術支援に従事. 2017年4月より現職. DB移行, Data Warehouse 移行, Data Lake や Data Platform の構想策定から設計, 実装の支援などに従事.
 
 ### Skills
 
-Perl, Python, Go, SQL, Oracle, MySQL, PostgreSQL, Spark
+Perl, Python, SQL, Oracle, MySQL, PostgreSQL, Spark
