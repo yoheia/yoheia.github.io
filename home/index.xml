@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Chie&#39;s Portfolio</title>
+    <title>Homes on Yoheia&#39;s Portfolio</title>
     <link>https://yoheia.github.io/home/</link>
-    <description>Recent content in Homes on Chie&#39;s Portfolio</description>
+    <description>Recent content in Homes on Yoheia&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; chie8842 2018-2020</copyright>
+    <copyright>&amp;copy; yoheia 2021</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://yoheia.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,16 +27,16 @@
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
       <guid>https://yoheia.github.io/home/about/</guid>
-      <description>Biography Google CloudのData&amp;amp;Analyticsエンジニア。 奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、</description>
+      <description>Biography Amazon Web Service の Big Data Consultant. ネットベンチャーで Web デザイナーとしてキャリアをスタート, Web アプリ開発からインフラ運用まで幅広い経験を積んだ後, フリーランスエ</description>
     </item>
     
     <item>
-      <title>Extra Activities</title>
+      <title>Publications</title>
       <link>https://yoheia.github.io/home/publications/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
       <guid>https://yoheia.github.io/home/publications/</guid>
-      <description>OSS Contribute to Apache Spark, Tensorflow, Apache Airflow, Keras, and so on tfug/proofreading GitHub Notation check tool for TensorFlow document Japanese translation project expstock GitHub 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。 easy_notifier GitHub シンタ</description>
+      <description>Books 絵で見てわかるITインフラの仕組み(共著) link Talks 「データベース移行アンチパターン その2」 AWS Innovate 2019 「データレイク構築における成功の秘訣～マインド</description>
     </item>
     
   </channel>
