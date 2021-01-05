@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "publications"
 active = true
-date = 2018-11-17T00:00:00
+date = 2020-01-05T00:00:00
 
 title = "Publications"
 subtitle = ""

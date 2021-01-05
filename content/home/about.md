@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-11-17T00:00:00
+date = 2020-01-05T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -53,8 +53,8 @@ weight = 5
 
 # Biography
 
-Amazon Web Service Japan の Big Data Consultant. ネットベンチャーで Web デザイナーとしてキャリアをスタート, Web アプリ開発からインフラ運用まで幅広い経験を積んだ後, フリーランスエンジニア, ドワンゴで DBA 兼開発チームマネージャーを経て, Oracle Japan で DB コンサルタントとしてミッションクリティカル・システムのデータベース技術支援に従事. 2017年4月より現職. DB移行, Data Warehouse 移行, Data Lake や Data Platform の構想策定から設計, 実装の支援などに従事.
+AWS Japan の Bigdata Consultant. ネットベンチャーで Web デザイナーとしてキャリアをスタート, Web アプリ開発からインフラ運用まで幅広い経験を積んだ後, フリーランスエンジニア, ドワンゴで DBA 兼開発チームマネージャーを経て, Oracle Japan では DB コンサルタントとしてミッションクリティカル・システムのデータベースの設計, 運用, トラブルシューティングなどに携わる. 2017年4月より現職. DB移行, Data Warehouse 移行, Data Lake や Data Platform の構想策定から設計, 実装支援などに従事.
 
 ### Skills
 
-Perl, Python, SQL, Oracle, MySQL, PostgreSQL, Spark
+Perl, Python, SQL, RDBMS, AWS
